@@ -1,7 +1,7 @@
 {
   "name": "project",
   "private": true,
-  "homepage": "https://edifiels.github.io/BeansProject",
+  "homepage": "https://edifiels.github.io/DemoBeansProject",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
