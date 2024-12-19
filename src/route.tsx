@@ -13,7 +13,7 @@ import { BeanPage } from "./pages/BeanPage";
 
 export const router = createBrowserRouter([
   {
-    path: "BeansProject",
+    path: "DemoBeansProject",
     element: <Layout />,
     loader: Loader,
     children: [
